@@ -1,0 +1,1 @@
+This is a mini project to use turtle to draw a painting similar to what [Damien Hirst has created](https://www.theguardian.com/artanddesign/2012/jan/12/damien-hirst-spot-paintings-review).
